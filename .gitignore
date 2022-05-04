@@ -1,3 +1,8 @@
+## Moros Folders
+[Bb]in
+[Bb]in-int
+*.vcxproj
+
 ## OSX artifacts
 .DS_Store
 
